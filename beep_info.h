@@ -20,10 +20,8 @@
 #define DH4 786
 #define DH5 882
 #define DH6 990
-#define DH7 112
+#define DH7 1112
 
 #define WHOLE 1
 #define HALF 0.5
 #define QUARTER 0.25
-#define EIGHTH 0.25
-#define SIXTEENTH 0.625
